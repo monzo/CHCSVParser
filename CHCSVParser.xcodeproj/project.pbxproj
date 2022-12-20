@@ -61,22 +61,12 @@
 		08FB7794FE84155DC02AAC07 /* CHCSVParser */ = {
 			isa = PBXGroup;
 			children = (
-				08FB7795FE84155DC02AAC07 /* Source */,
+				E001FEE62951C091005DE9E0 /* Sources */,
 				5560A19D1737433900DDD1D3 /* Unit Tests */,
 				08FB779DFE84155DC02AAC07 /* External Frameworks and Libraries */,
 				1AB674ADFE9D54B511CA2CBB /* Products */,
 			);
 			name = CHCSVParser;
-			sourceTree = "<group>";
-		};
-		08FB7795FE84155DC02AAC07 /* Source */ = {
-			isa = PBXGroup;
-			children = (
-				08FB7796FE84155DC02AAC07 /* main.m */,
-				5516BCBA12578DA90025F235 /* CHCSVParser */,
-			);
-			name = Source;
-			path = CHCSVParser;
 			sourceTree = "<group>";
 		};
 		08FB779DFE84155DC02AAC07 /* External Frameworks and Libraries */ = {
@@ -119,6 +109,15 @@
 				5515D4451AAB72FF00DC1D5B /* Issue79.csv */,
 			);
 			path = "Unit Tests";
+			sourceTree = "<group>";
+		};
+		E001FEE62951C091005DE9E0 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				08FB7796FE84155DC02AAC07 /* main.m */,
+				5516BCBA12578DA90025F235 /* CHCSVParser */,
+			);
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

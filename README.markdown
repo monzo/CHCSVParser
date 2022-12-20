@@ -4,8 +4,15 @@
 
 ## Supported Platforms
 
-- Mac OS X 10.7+
-- iOS 6+
+- Mac OS X 10.13+
+- iOS 13+
+
+## Installation
+
+### [Swift Package Manager](https://www.swift.org/package-manager/)
+
+Add Swift Package `https://github.com/monzo/CHCSVParser`
+Exact version `2.1.1`
 
 ## Usage
 
