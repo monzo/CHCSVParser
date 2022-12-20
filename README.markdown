@@ -4,7 +4,7 @@
 
 ## Supported Platforms
 
-- Mac OS X 10.7+
+- Mac OS X 10.13+
 - iOS 13+
 
 ## Installation
